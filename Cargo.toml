@@ -44,8 +44,6 @@ path = "snarkos/main.rs"
 version = "0.9.11"
 features = ["circuit", "console", "parallel"]
 
-# version = "0.9.7"
-
 [dependencies.anyhow]
 version = "1"
 
